@@ -1,2 +1,2 @@
-# Classifica-o-de-triangulo
-Classificação de triangulo
+# Classificador de triangulo
+Classificação de triangulo usando funções na linguagem C
